@@ -8,6 +8,8 @@
     <title>Doctor Ost</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
           integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet">
@@ -34,6 +36,44 @@
                         обратный звонок
                     </a>
                 </div>
+                <div class="search">
+                    <img src="images/Group%201048.svg" alt="">
+                </div>
+                <div class="burger-menu " id="burger-menu">
+
+                    <a href="#" class="burger-menu_button first">
+                        <span class="burger-menu-lines"></span>
+                        <span class="burger-menu-lines"></span>
+                        <span class="burger-menu-lines"></span>
+                    </a>
+                    <nav class="burger-menu_nav">
+                        <a href="#" class="burger-menu_button two">
+                            <span class="burger-menu-lines"></span>
+                            <span class="burger-menu-lines"></span>
+                            <span class="burger-menu-lines"></span>
+
+                        </a>
+                        <ul>
+                            <li>
+                                <a  class="burger-menu_link" href="#who-suits">Кому подойдет
+                                </a>
+                            </li>
+                            <li>
+                                <a class="burger-menu_link"  href="#">Что лечим</a>
+                            </li>
+                            <li><a class="burger-menu_link"  href="#">Частые вопросы</a></li>
+                            <li><a class="burger-menu_link"  href="#free-consultation"> Бесплатная консультация</a></li>
+                            <li><a class="burger-menu_link"  href="#procedure-progress">Ход процедуры</a></li>
+                            <li><a  class="burger-menu_link"  href="#med-center">   О ДокторОст</a></li>
+                            <li><a  class="burger-menu_link"  href="#specialists">  Специалисты</a></li>
+                        </ul>
+                        <a href="#" class="button">
+                            Обратный звонок
+                        </a>
+                    </nav>
+                    <div class="burger-menu_overlay">
+                    </div>
+                </div>
             </div>
         </div>
         </div>
@@ -41,7 +81,7 @@
             <div class="container">
                 <ul>
                     <li>
-                        <a href="#">
+                        <a href="#who-suits">
                             Кому подойдет
                         </a>
                     </li>
@@ -51,22 +91,22 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="#free-consultation">
                             Бесплатная консультация
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="#procedure-progress">
                             Ход процедуры
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="#med-center">
                             О ДокторОст
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="#specialists">
                             Специалисты
                         </a>
                     </li>
@@ -78,7 +118,7 @@
     <section id="home">
         <div class="container">
             <div class="row">
-                <div class="col-md-8">
+                <div class="col-lg-8 col-md-10">
                     <div class="box d-flex">
                         <div class="info">
                             <h1>Родной сустав <br> а не протез!</h1>
@@ -94,11 +134,82 @@
             </div>
         </div>
     </section>
+    <section id="home-mobile">
+            <div class="box">
+                <div class="container">
+                <h1>Родной сустав <br> а не протез!</h1>
+                <p>Врачи научились восстанавливать разрушенный
+                    сустав БЕЗ операции на стадии некроза</p>
+            </div>
+            </div>
+            <div class="video-box">
+               <div class="container">
+                   <a href="#" class="play">
+                       <img src="images/play.svg" alt="">
+                   </a>
+               </div>
+            </div>
+    </section>
+    <section id="section2-mobile">
+        <div class="wrapper ">
+            <div class="box">
+                <p class="title">
+                    1 <span>час</span>
+                </p>
+                <p class="description">
+                            на процедуру
+                        </p>
+            </div>
+            <div class="box">
+                <p class="title">
+                    1 <span>укол</span>
+                </p>
+                <p class="description">
+                            и вы свободны!
+                        </p>
+            </div>
+            <div class="box">
+                <p class="title">
+                    1 <span>год</span>
+                </p>
+                <p class="description">
+                            непрерывного <br> действия
+                        </p>
+            </div>
+        </div>
+    </section>
     <section id="section2">
         <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-
+           <div class="wrapper wrapper-pc">
+                       <div class="box">
+                           <p class="title">
+                               1 <span>час</span>
+                           </p>
+                           <span>
+                            на процедуру
+                        </span>
+                       </div>
+                       <div class="box">
+                           <p class="title">
+                               1 <span>укол</span>
+                           </p>
+                           <span>
+                            и вы свободны!
+                        </span>
+                       </div>
+                       <div class="box">
+                           <p class="title">
+                               1 <span>год</span>
+                           </p>
+                           <span>
+                            непрерывного действия
+                        </span>
+                       </div>
+           </div>
+            <div class="block3">
+                <div class="box">
+                    <p>онлайн-консультация <span >  бесплатно</span></p>
+                    <a href="#" class="button">Записаться</a>
                 </div>
             </div>
         </div>
@@ -109,12 +220,12 @@
                 Кому подойдет?
             </h2>
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-lg-6 col-md-8 col-sm-12 col-12">
                     <div class="box first">
                         <img src="images/who-suits1.png" alt="">
                     </div>
                 </div>
-                <div class="col-md-5">
+                <div class="col-lg-5 col-md-7 col-sm-11 col-11">
                     <div class="info first">
                         <p>
                             Еще никогда лечение суставов, мышц, связок и позвонков не
@@ -126,27 +237,37 @@
                 </div>
             </div>
             <div class="row row-2">
-                <div class="col-md-5">
+                <div class="col-lg-5 col-md-8 col-sm-12 col-12">
                     <div class="box second">
                         <img src="images/who-suits2.png" alt="">
                     </div>
                 </div>
-                <div class="col-md-6">
-
+                <div class="col-lg-6 col-md-7 col-sm-11 col-11">
+                <div class="info second">
+                    <h5>Путь к свободе!</h5>
+                    <p>
+                        Теперь опасные заболевания, способные приковать к
+                        инвалидному креслу, можно вылечить всего за один визит к врачу!
+                    </p>
+                </div>
                 </div>
             </div>
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-lg-6 col-md-8 col-sm-12 col-12">
                         <div class="box third">
                             <img src="images/who-suits3.png" alt="">
                         </div>
                     </div>
-                    <div class="col-md-5">
-
+                    <div class="col-lg-5 col-md-7 col-sm-11 col-11">
+                        <div class="info third">
+                            <p>
+                                Команда “Доктор ОСТ” делает все возможное, чтобы вернуть здоровье и молодость суставно-связочному аппарату, не смотря на возраст пациента! Проверьте, нет ли в списке показаний ниже вашего диагноза?
+                                Возможно, настал момент покончить с болью и скованностью движений!
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
     </section>
     <section id="indications">
         <div class="container">
@@ -250,7 +371,7 @@
                 Бесплатная онлайн-консультация
             </h2>
             <div class="row">
-                <div class="col-md-4" style="padding-right: 0">
+                <div class="col-md-4 col-sm-12 col-12" style="padding-right: 0">
                     <div class="doctor-box">
                         <img src="images/doctor.png" alt="">
                         <div class="info">
@@ -264,7 +385,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-8" style="padding-left: 0">
+                <div class="col-md-8 col-sm-12 col-12" style="padding-left: 0">
                     <div class="box-form">
                         <div class="stock d-flex">
                             <h3>
@@ -300,15 +421,15 @@
                                     <label for="#name">Имя</label>
                                     <input type="text" id="#name" name="name" placeholder="Введите ваше имя">
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-lg-6 col-md-12">
                                     <label for="#tel">Телефон</label>
                                     <input type="text" id="#tel" name="name" >
                                 </div>
-                                <div class="col-md-6" style="margin-top: 20px">
+                                <div class="col-lg-6 col-md-12" style="margin-top: 20px">
                                     <label for="#city">Город</label>
                                     <input type="text" id="#city" name="name" placeholder="Введите ваше имя">
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-lg-6 col-md-12">
                                     <div class="btn-group">
                                         <a href="#" class="button">Записаться</a>
                                     </div>
@@ -326,19 +447,19 @@
                 Преимущества
             </h2>
             <div class="row">
-                <div class="col-md-4" style="padding-right: 0">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12" style="padding-right: 0">
                     <div class="box">
                         <img src="images/success%20(1)%201%20(1).svg" alt="">
                         <p>Опыт  и <br> профессиональзм</p>
                     </div>
                 </div>
-                <div class="col-md-4" style="padding-right: 0;padding-left: 0">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12" style="padding-right: 0;padding-left: 0">
                     <div class="box">
                         <img src="images/tag%20(1)%201.svg" alt="">
                         <p>Адекватные <br> цены</p>
                     </div>
                 </div>
-                <div class="col-md-4" style="padding-left: 0">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12" style="padding-left: 0">
                     <div class="box">
                         <img src="images/deadline%201.svg" alt="">
                         <p>Соблюдение <br> сроков</p>
@@ -353,7 +474,7 @@
                 Ход процедуры
             </h2>
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="box">
                         <img src="images/progress.png" alt="">
                         <div class="info d-flex">
@@ -362,7 +483,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="box">
                         <img src="images/progress1.png" alt="">
                         <div class="info d-flex">
@@ -371,7 +492,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="box">
                         <img src="images/progress2.png" alt="">
                         <div class="info d-flex">
@@ -380,7 +501,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="box">
                         <img src="images/progress3.png" alt="">
                         <div class="info d-flex">
@@ -389,7 +510,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="box">
                         <img src="images/progress4.png" alt="">
                         <div class="info d-flex">
@@ -398,7 +519,7 @@
                     </div>
                 </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="box">
                         <img src="images/progress5.png" alt="">
                         <div class="info d-flex">
@@ -407,12 +528,12 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-8">
-                    <div class="box">
+                <div class="col-lg-8 col-md-8 col-sm-12 col-12">
+                    <div class="box last">
                         <img src="images/progress7.png" alt="">
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-12">
                     <div class="box last">
                         <div class="info last">
                             <div class="num">07</div>
@@ -492,7 +613,7 @@
                 КАКИХ РЕЗУЛЬТАТОВ И КАК СКОРО <br> ОЖИДАТЬ ПОСЛЕ SVF?
             </h2>
             <div class="row">
-                <div class="col-md-6" style="padding-right: 35px">
+                <div class="col-md-6 col-sm-12 col-12" style="padding-right: 35px">
                     <div class="box">
                         <div class="line">
                             <div class="bor">
@@ -518,6 +639,9 @@
                             <div class="bor">
                                 <img src="images/Ellipse%2097.svg" alt="">
                             </div>
+                            <div class="line-dashed third" >
+
+                            </div>
                         </div>
                         <div class="info">
                             <h5>С 7 по 21 день</h5>
@@ -532,7 +656,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6" style="padding-left: 35px">
+                <div class="col-md-6 col-sm-12 col-12" style="padding-left: 35px">
                     <div class="box">
                         <div class="line">
                             <div class="bor">
@@ -668,11 +792,43 @@
                 ООО “Челябинск ДокторОст”
             </p>
             <div class="row med-row">
-                <div class="col-md-6" >
+                <div class="col-lg-6 col-md-10 col-sm-12 col-12">
                     <div class="box">
                         <div class="img">
                             <img src="images/Mask%20Group%20(5).png" alt="">
                         </div>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-10 col-sm-12 col-12">
+                    <div class="banner">
+                        <div class="item">
+                            <img src="images/crown%201.svg" alt="">
+                            <h5>Лучшая клиника за 2016-2019гг</h5>
+                        </div>
+                        <div class="item">
+                            <div class="d-flex first">
+                                <p class="procent">96%</p>
+                                <span>эффективность
+                                   <br>
+                                   лечения
+                               </span>
+                            </div>
+                            <div class="d-flex second">
+                                <p class="procent">39 780</p>
+                                <span>отмененных
+                                    <br>
+                                    операций
+
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <h5 class="title">
+                        “Доктор ОСТ” работает при поддержке научного центра реабилитации Минздрава РФ.
+                    </h5>
+                </div>
+                <div class=" col-lg-6 col-md-12 col-sm-12 col-12">
+                    <div class="box">
                         <div class="options">
                             <div class="item">
                                 12 <span>лет</span>
@@ -695,35 +851,9 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-md-5" >
-                    <div class="banner">
-                        <div class="item">
-                            <img src="images/crown%201.svg" alt="">
-                            <h5>Лучшая клиника за 2016-2019гг</h5>
-                        </div>
-                        <div class="item">
-                           <div class="d-flex first">
-                               <p class="procent">96%</p>
-                               <span>эффективность
-                                   <br>
-                                   лечения
-                               </span>
-                           </div>
-                            <div class="d-flex second">
-                                <p class="procent">39 780</p>
-                                <span>отмененных
-                                    <br>
-                                    операций
-
-                                </span>
-                            </div>
-
-                        </div>
-                    </div>
+                <div class=" col-lg-5 col-md-12 col-sm-12 col-12" >
                     <div class="right-box">
-                        <h5 class="title">
-                            “Доктор ОСТ” работает при поддержке научного центра реабилитации Минздрава РФ.
-                        </h5>
+
                         <img src="images/Mask%20Group%20(6).png" alt="">
                     </div>
                 </div>
@@ -744,8 +874,7 @@
             <h2 class="section-title">
                 специалисты, ведущие прием
             </h2>
-            <div class="row">
-                <div class="col-md-4" style="padding-right: 10px">
+            <div class="slider owl-carousel owl-theme">
                     <div class="box">
                         <img src="images/doctor.png" alt="">
                        <div class="info">
@@ -757,8 +886,6 @@
                            </div>
                        </div>
                     </div>
-                </div>
-                <div class="col-md-4" style="padding-right: 10px;padding-left: 10px">
                     <div class="box">
                         <img src="images/doctor.png" alt="">
                         <div class="info">
@@ -770,8 +897,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-4" style="padding-left: 10px">
                     <div class="box">
                         <img src="images/doctor.png" alt="">
                         <div class="info">
@@ -781,6 +906,49 @@
                             <div class="position">
                                 Управляющий филиала “Доктор Ост”, Челябинск
                             </div>
+                        </div>
+                    </div>
+                <div class="box">
+                    <img src="images/doctor.png" alt="">
+                    <div class="info">
+                        <h4 class="name">
+                            Самойленко <span>Ксения Викторовна</span>
+                        </h4>
+                        <div class="position">
+                            Управляющий филиала “Доктор Ост”, Челябинск
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <img src="images/doctor.png" alt="">
+                    <div class="info">
+                        <h4 class="name">
+                            Самойленко <span>Ксения Викторовна</span>
+                        </h4>
+                        <div class="position">
+                            Управляющий филиала “Доктор Ост”, Челябинск
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <img src="images/doctor.png" alt="">
+                    <div class="info">
+                        <h4 class="name">
+                            Самойленко <span>Ксения Викторовна</span>
+                        </h4>
+                        <div class="position">
+                            Управляющий филиала “Доктор Ост”, Челябинск
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <img src="images/doctor.png" alt="">
+                    <div class="info">
+                        <h4 class="name">
+                            Самойленко <span>Ксения Викторовна</span>
+                        </h4>
+                        <div class="position">
+                            Управляющий филиала “Доктор Ост”, Челябинск
                         </div>
                     </div>
                 </div>
@@ -791,7 +959,7 @@
             </div>
         </div>
     </section>
-    <section id="more-details">
+    <section id="more-details" class="block3">
         <div class="container">
             <div class="box">
                 <h3>Узнать о методе больше <a href="#"> на нашем сайте</a></h3>
@@ -899,8 +1067,8 @@
                    <a href="#" class="play">
                        <img src="images/play2.svg" alt="">
                    </a>
-                   <div class="row">
-                       <div class="col-md-5">
+                   <div class="row row2">
+                       <div class="col-md-5 col-sm-12 col-12">
                            <div class="box">
                                <h3>
                                    мнение эксперта
@@ -917,7 +1085,7 @@
     <section id="opinion" class="block2">
         <div class="container">
             <div class="row">
-                <div class="col-md-6" style="padding-right: 10px">
+                <div class="col-md-6 col-sm-12 col-12" style="padding-right: 10px">
                     <div class="box">
                         <h4>
                             Я уже ставил инъекци в сустав. Принципиальое отличие: с каждым днем эффект наарстает
@@ -925,7 +1093,7 @@
                         <a href="#">Узнать >></a>
                     </div>
                 </div>
-                <div class="col-md-6" style="padding-left: 10px">
+                <div class="col-md-6 col-sm-12 col-12" style="padding-left: 10px">
                     <div class="box">
                         <h4>
                             Важно! степень болячки и эффективность гифки на примере артрозов разнйо степени
@@ -937,6 +1105,12 @@
         </div>
     </section>
 </main>
+<script
+        src="https://code.jquery.com/jquery-3.5.1.js"
+        integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
 <script src="js/script.js"></script>
 </body>
 </html>

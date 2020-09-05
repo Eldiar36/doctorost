@@ -1,0 +1,1125 @@
+@media (max-width: 1200px) {
+    header nav ul li a {
+        font-weight: 600;
+        font-size: 14px;
+    }
+    header .header .right-box .number {
+        margin-left: 40px;
+    }
+    header .header .right-box .number {
+        margin-left: 26px;
+    }
+    #home {
+        padding: 84px 0 130px 0
+    }
+    #svf,
+    #expert-opinion,
+    #section4
+    {
+        height: auto;
+        padding: 0;
+    }
+    .block1 .play {
+        padding-top: 137px;
+        padding-bottom: 150px;
+    }
+    #svf .play {
+        padding-top: 30px;
+    }
+    .block1 .box {
+        bottom: -90px;
+    }
+    .container {
+        padding: 0 40px;
+    }
+    #section2 .wrapper .box .title {
+        font-weight: 900;
+        font-size: 70.807px;
+        line-height: 74px;
+    }
+    #section2 .wrapper .box {
+        padding: 0 50px;
+    }
+    #section2 .wrapper .box .title span {
+        font-weight: 900;
+        font-size: 40.4037px;
+    }
+    #who-suits .info p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    #who-suits .info {
+        background: #FFFFFF;
+        width: 530px;
+        padding: 35px 40px 35px 35px;
+    }
+
+    #who-suits .info.second {
+        padding: 35px 35px 35px 35px;
+        margin-left: 170px;
+        margin-top: 75px;
+    }
+
+    #who-suits .info.first {
+        margin-left: -170px;
+        margin-top: 95px;
+    }
+
+    #who-suits .info.third {
+        margin-top: 75px;
+        margin-left: -170px;
+    }
+
+    .section-title {
+        font-weight: 500;
+        font-size: 35px;
+        line-height: 32px;
+    }
+
+    #indications {
+        padding: 90px 0 60px 0;
+    }
+
+    #indications .box .item p {
+        font-size: 18px;
+    }
+
+    .block1 .box h3 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .block1 .box p {
+        font-size: 17px;
+        line-height: 26px;
+    }
+
+    #free-consultation .box-form .stock {
+        margin-bottom: 40px;
+    }
+
+    #free-consultation .box-form .stock h3 {
+        font-size: 25px;
+        line-height: 32px;
+    }
+
+    #free-consultation .box-form .stock .time .title {
+        font-size: 21px;
+        line-height: 23px;
+        margin-bottom: 12px;
+    }
+
+    #free-consultation .box-form .stock .time .clock .item {
+        width: 65px;
+        height: 45px;
+        font-size: 28.4545px;
+        line-height: 43px;
+    }
+
+    #free-consultation .box-form form input {
+        font-size: 20px;
+    }
+
+    #free-consultation .doctor-box .info .name {
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 29px;
+    }
+
+    #free-consultation .doctor-box .info .name span {
+        display: block;
+        font-size: 18px;
+        line-height: 19px;
+    }
+
+    #free-consultation .doctor-box .info {
+        padding: 24px 0 38px 29px;
+    }
+
+    #benefits .box p {
+        font-size: 21px;
+        line-height: 22px;
+        margin-left: 18px;
+    }
+
+    #procedure-progress .box .info p {
+        font-size: 20px;
+    }
+
+    #effects .box .item p {
+        font-size: 18px;
+        line-height: 30px;
+        color: #2E2E2E;
+    }
+
+    #future .box .box-body p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    #future .box.second {
+        height: 385px;
+    }
+
+    #future .box {
+        height: 300px;
+    }
+
+    #med-center .banner .item {
+        padding: 25px 0 25px 30px;
+    }
+    #med-center .banner .item h5 {
+        font-size: 25px;
+        line-height: 23px;
+    }
+    #med-center .banner .item .procent {
+        font-weight: bold;
+        font-size: 35px;
+        line-height: 35px;
+    }
+    #med-center .right-box {
+        margin-top: -25px;
+    }
+    #med-center .banner .item span {
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 19px;
+    }
+    #med-center .banner {
+        width: 564px;
+    }
+    #med-center .box .options .item {
+        font-size: 36px;
+        line-height: 40px;
+        margin-right: 30px;
+    }
+    #med-center .box .options {
+        margin: 30px 0 10px 0;
+    }
+    #med-center .box .description {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #med-center .right-box .title {
+        font-size: 20px;
+        line-height: 24px;
+        margin-bottom: 20px;
+    }
+    #med-center .bottom-title {
+        margin-top: 20px;
+        font-size: 16px;
+        line-height: 23px;
+    }
+    #med-center .section-subtitle {
+        font-size: 25px;
+        line-height: 23px;
+    }
+    #more-details .box h3 {
+        font-weight: 500;
+        font-size: 23px;
+        line-height: 25px;
+    }
+    #specialists .recording p {
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .block2 .box h4 {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 27px
+    }
+    .block2 .box {
+        padding: 30px 20px 35px 30px;
+        background: #FFFFFF;
+        box-shadow: 0 20px 90px rgba(0, 0, 0, 0.06);
+        height: 230px;
+    }
+    #details .warning {
+        margin-top: 30px;
+        font-size: 18px;
+        line-height: 23px;
+    }
+    #promo-code {
+        padding: 30px 0;
+    }
+    #promo-code .section-title {
+        font-size: 27px;
+    }
+    #promo-code .info .code {
+        font-size: 28px;
+        width: 200px;
+        height: 50px;
+    }
+    #injection .box p {
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+
+
+
+    }
+@media (max-width: 991px) {
+    header .header .right-box  {
+        display: none!important;
+    }
+    header nav {
+        display:none;
+    }
+
+    .burger-menu {
+        display: block;
+    }
+
+    #home .box .info h1 {
+        font-weight: bold;
+        font-size: 45px;
+        line-height: 50px;
+    }
+    #home .box .info p {
+        font-size: 22px;
+        line-height: 27px;
+    }
+    #section2 .wrapper {
+        background: #29B8D9;
+        position: relative;
+        z-index: 10;
+        padding: 25px 0 35px 0;
+    }
+    #section2 .wrapper .box .title {
+        font-weight: 900;
+        font-size: 50.807px;
+    }
+    #section2 .wrapper .box .title span {
+        font-weight: 900;
+        font-size: 35.4037px;
+        line-height: 50px;
+    }
+    #section2 .wrapper .box span {
+        font-weight: 500;
+        font-size: 18px;
+    }
+    #section2 .wrapper .box {
+        padding: 0 30px;
+    }
+    #section2 .wrapper .box:after {
+        height: 100%;
+        top: 9px;
+    }
+    #who-suits {
+         padding: 50px 0 50px 0;
+     }
+    #who-suits .row {
+        justify-content: center;
+    }
+    #who-suits .info {
+        width: 100%;
+        padding: 30px 30px 35px 30px;
+    }
+    #who-suits .info.first,
+    #who-suits .info.second,
+    #who-suits .info.third{
+        margin-left: 0;
+        margin-top: -30px;
+        margin-bottom: 30px;
+    }
+    #who-suits .box img {
+
+        object-fit: cover;
+        width: 100%;
+        height: 450px;
+    }
+    #indications {
+        padding: 20px 0 60px 0;
+    }
+    #indications .box .item {
+        margin-bottom: 15px;
+    }
+    #indications .box .item p {
+        font-size: 16px;
+    }
+    #section4 .play {
+        padding-top: 88px;
+        padding-bottom: 120px;
+    }
+    .block1 .box {
+        padding: 25px 25px 30px 25px;
+    }
+    .block1 .box h3 {
+        font-size: 23px;
+        line-height: 21px;
+    }
+    .block1 .box p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .section-title {
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 25px;
+    }
+    #free-consultation .box-form {
+        z-index: 10;
+        position: relative;
+        padding: 25px 25px 30px 20px;
+    }
+    #free-consultation .box-form .stock {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    #free-consultation .box-form .stock h3 {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    #free-consultation .box-form .stock h3 br {
+        display: none;
+    }
+    #free-consultation .box-form .stock .time .title {
+        font-size: 20px;
+        line-height: 20px;
+        text-align: left;
+    }
+    #free-consultation .btn-group {
+        display: flex;
+        margin-top: 20px;
+        justify-content: flex-start;
+    }
+    #free-consultation .box-form form input {
+        font-size: 17px;
+        margin-bottom: 10px;
+    }
+    #free-consultation .box-form form input::placeholder {
+        font-size: 15px;
+    }
+    #benefits {
+        padding: 30px 0 50px 0;
+    }
+    #benefits .col-md-6 {
+        padding: 0 15px!important;
+    }
+    #benefits .box {
+        margin-bottom: 20px;
+        justify-content: flex-start;
+        padding: 20px;
+        height: auto;
+    }
+    #benefits .box p {
+        font-size: 18px;
+        line-height: 18px;
+        margin-left: 18px;
+    }
+    #procedure-progress .box .info.last {
+        padding-top: 60px;
+        padding-bottom: 22px;
+    }
+    #procedure-progress .box .info p {
+        font-size: 18px;
+    }
+    #svf {
+        background: url("../images/Mask Group.png")no-repeat center;
+        background-size: cover;
+    }
+    #svf .volume {
+        padding-top: 30px;
+    }
+    #svf .volume img {
+        width: 30px;
+        height: 30px;
+    }
+    .block1 .play img {
+        width: 60px;
+        height: 60px;
+    }
+    #effects {
+        background: #F4FCFF;
+        padding: 135px 0 40px 0;
+    }
+    #effects .box .item p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    #results {
+        padding: 60px 0;
+    }
+    #results .section-title {
+        line-height: 35px;
+    }
+    #results .box .info p {
+        margin-top: 12px;
+        font-size: 16px;
+        line-height: 23px;
+    }
+    #results .box .info h5 {
+        font-size: 23px;
+    }
+    #future .box .box-header p {
+        font-weight: bold;
+        font-size: 20px;
+    }
+    #future .box .box-body p {
+        line-height: 22px;
+    }
+    #future .box.second {
+        height: 450px;
+    }
+    #expert-opinion .info {
+        padding: 25px 25px 38px 25px;
+    }
+    #expert-opinion .item p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #expert-opinion .item h4 {
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 34px;
+    }
+    #med-center .banner {
+        width: 100%;
+        margin-left: 0;
+    }
+    #med-center .box .options {
+        margin: 0 0 15px 0;
+    }
+    #med-center .right-box {
+        margin-top: 20px;
+    }
+}
+@media (max-width: 767px) {
+    #section2 .wrapper .box .title span {
+        font-size: 25.4037px;
+    }
+    #section2 .wrapper .box .title {
+        font-size: 47.6893px;
+        line-height: 37px;
+    }
+    #section2 .wrapper .box .title span {
+        font-size: 23px;
+        line-height: 0;
+    }
+    #section2 .wrapper .box span {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    #section2 .wrapper .box {
+        padding: 0 10px;
+        width: 33%;
+    }
+    #section2 .wrapper .box:after {
+        display: none;
+    }
+    #section2 .wrapper .box span {
+        margin-left: 0;
+    }
+    #section2 .block3 .box {
+        flex-direction: column;
+    }
+    #section2 .block3 .box p {
+        margin-bottom: 20px;
+        font-size: 24px;
+        line-height: 28px;
+        text-align: center;
+    }
+    #section2 .block3 .box .button {
+        width: 100%;
+    }
+    #who-suits .info.first, #who-suits .info.second, #who-suits .info.third {
+        margin-left: 0;
+        margin-top: -30px;
+        margin-bottom: 30px;
+        border-radius: 4px;
+    }
+    #free-consultation .col-sm-12 {
+        padding: 0 15px!important;
+    }
+    #free-consultation .doctor-box img {
+        width: 100%;
+    }
+    #procedure-progress {
+        padding: 0 0 50px 0;
+    }
+    #procedure-progress .box img {
+        height: auto;
+        width: 100%;
+    }
+    #procedure-progress .box.last {
+        margin-bottom: 0;
+    }
+    #procedure-progress .box .info.last {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    #svf .volume {
+        padding-top: 20px;
+    }
+    #svf .volume img {
+        width: 20px;
+        height: 20px;
+    }
+    .block1 .play {
+        padding-bottom: 90px;
+    }
+    .block1 .play img {
+        width: 50px;
+        height: 50px;
+    }
+    .block1 .box {
+        padding: 20px 20px 20px 20px;
+    }
+    #results .col-sm-12,
+    #results .col-12 {
+        padding: 0 15px!important;
+    }
+    #results .box .line.third {
+        display: block;
+    }
+    #results .box .line .line-dashed.first {
+        height: 206px;
+    }
+    #results .box .line .line-dashed.third{
+        height: 206px;
+        }
+    #med-center .box .img {
+        position: relative;
+        overflow: hidden;
+    }
+    #med-center .banner .item:first-child {
+        flex-direction: row;
+        justify-content: center;
+    }
+    #med-center .banner .item {
+        padding: 15px 0 20px 10px;
+        flex-direction: column;
+        align-items: center;
+    }
+    #med-center .banner .item .first {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+}
+
+@media (max-width: 600px) {
+    #home {
+        display: none;
+    }
+    #home-mobile{
+        display: block;
+    }
+}
+@media (max-width: 480px) {
+    .container {
+        padding: 0 20px;
+    }
+    header .header .logo img {
+        width: 170px;
+    }
+    .section-title {
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 34px;
+    }
+    #section2 .wrapper {
+        display: none;
+    }
+    #section2-mobile{
+        display: block;
+    }
+    #who-suits .section-title {
+        margin-bottom: 33px;
+    }
+
+    #who-suits .box img {
+        object-fit: cover;
+        width: 100%;
+        height: auto;
+    }
+
+    #who-suits .info {
+        padding: 18px 16px 16px 16px;
+    }
+
+    #who-suits .info p {
+        font-size: 16px;
+        line-height: 24px;
+        color: #828282;
+    }
+
+    #who-suits .box.first img {
+        margin-left: 8px;
+    }
+
+    #who-suits .box.first:before {
+        content: "";
+        width: 4px;
+    }
+
+    #who-suits .info.second {
+        padding: 16px 16px 25px 16px;
+    }
+
+    #who-suits .info.second h5 {
+        margin-bottom: 10px;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 28px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+
+    #indications {
+        padding: 34px 0 30px 0;
+    }
+
+    #indications .box .item img {
+        width: 13px;
+        height: 13px;
+    }
+
+    #indications .box .item p {
+        margin-left: 16px;
+    }
+
+    #section4 {
+        background: url("../images/sec4mobile.png") no-repeat center;
+        background-size: cover;
+    }
+
+    .block1 .box {
+        padding: 30px 24px 30px 24px;
+    }
+
+    .block1 .play img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .block1 .box {
+        bottom: -172px;
+    }
+
+    .block1 .box p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .block1 .box h3 {
+        font-size: 30px;
+        line-height: 34px;
+    }
+
+    #free-consultation {
+        padding: 250px 0 44px 0;
+    }
+
+    #free-consultation .section-title {
+        margin-bottom: 32px;
+    }
+
+    #free-consultation .doctor-box .info .name {
+        font-size: 24px;
+        line-height: 28px;
+
+    }
+
+    #free-consultation .doctor-box .info .name span {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    #free-consultation .doctor-box .info {
+        padding: 19px 0 22px 20px;
+    }
+
+    #free-consultation .box-form .stock h3 {
+        font-size: 24px;
+        line-height: 32px;
+        margin-bottom: 18px;
+    }
+
+    #free-consultation .box-form .stock .time .clock .item {
+        width: 75px;
+        height: 50px;
+        font-size: 35.4545px;
+        line-height: 47px;
+    }
+
+    #free-consultation .box-form .stock .time .title {
+        font-size: 18px;
+    }
+
+    #free-consultation .box-form form input::placeholder {
+        font-size: 20px;
+    }
+
+    #free-consultation .button {
+        background: #E54D28;
+        width: 100%;
+        height: 54px;
+        font-size: 17px;
+    }
+
+    #benefits {
+        padding: 30px 0 3px 0;
+    }
+
+    #benefits .section-title {
+        margin-bottom: 24px;
+    }
+
+    #benefits .box {
+        padding: 16px;
+        margin-bottom: 0;
+    }
+
+    #benefits .box p {
+        font-size: 18px;
+        line-height: 20px;
+        margin-left: 20px;
+    }
+
+    #benefits .box img {
+        width: 32px;
+        height: 32px;
+    }
+
+    #procedure-progress .section-title {
+        margin-bottom: 18px;
+    }
+
+    #procedure-progress .box .info {
+        align-items: baseline;
+    }
+
+    #procedure-progress .box .info p {
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+    #procedure-progress .box .info.last {
+        display: flex;
+    }
+
+    #procedure-progress .box .info.last .num {
+        margin-right: 15px;
+    }
+
+    #procedure-progress {
+        padding: 0 0 30px 0;
+    }
+
+    #svf .volume img {
+        width: 24px;
+        height: 21px;
+    }
+
+    #svf {
+        background: url("../images/svf-mobile.png") no-repeat center;
+        background-size: cover;
+    }
+
+    #svf .box {
+        padding: 26px 24px 26px 24px;
+    }
+
+    #svf .volume {
+        padding-top: 17px;
+    }
+
+    #svf .play {
+        padding-top: 5px;
+    }
+
+    #effects {
+        background: #F4FCFF;
+        padding: 200px 0 45px 0;
+    }
+
+    #effects .section-title {
+        margin-bottom: 15px;
+    }
+
+    #effects .box .item {
+        margin-bottom: 10px;
+    }
+
+    #results {
+        padding: 50px 0;
+    }
+
+    #results .section-title {
+        margin-bottom: 34px;
+    }
+
+    #results .box .info h5 {
+        font-size: 24px;
+        line-height: 28px;
+        padding-top: 7px;
+        margin-bottom: 6px;
+    }
+
+    #results .box .line .line-dashed.third {
+        height: 200px;
+    }
+
+    #results .box .line .line-dashed.first {
+        height: 230px;
+    }
+
+    #results .box .line .line-dashed.third {
+        height: 280px;
+    }
+
+    #results .box .info {
+        margin-left: 12px;
+    }
+
+    #future {
+        padding: 40px 0 30px 0;
+    }
+
+    #future .section-title {
+        margin-bottom: 30px;
+    }
+
+    #future .box {
+        padding: 20px 16px 20px 16px;
+        margin-bottom: 10px;
+    }
+
+    #future .box .box-header {
+        align-items: center;
+    }
+
+    #future .box .box-header p {
+        font-size: 18px;
+        margin-left: 13px;
+        line-height: 21px;
+    }
+
+    #future .box {
+        height: auto;
+    }
+
+    #future .box.second {
+        height: auto;
+    }
+    #med-center .box .img:before {
+        content: "";
+        background: #E54D28;
+        border-radius: 2px;
+        width: 4px;
+    }
+    #med-center .box img {
+        margin-left: 8px;
+    }
+    #med-center .banner .item .procent {
+        font-weight: bold;
+        font-size: 50px;
+        line-height: 57px;
+    }
+    #med-center .section-subtitle {
+        font-size: 18px;
+        line-height: 21px;
+        margin-bottom: 24px;
+    }
+    #med-center .banner{
+        margin-bottom: 25px;
+    }
+
+    #med-center .banner .item {
+        padding: 20px 15px 20px 15px;
+    }
+    #med-center .box .options .item {
+        font-size: 50px;
+        line-height: 22px;
+        margin-right: 30px;
+    }
+    #med-center .banner .item span {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 23px;
+    }
+    #med-center .title {
+        font-size: 18px;
+        line-height: 24px;
+        margin-bottom: 30px;
+    }
+    #med-center .box .description {
+        line-height: 24px;
+        margin-top: 85px;
+    }
+    #specialists .recording {
+        display: none!important;
+    }
+    #more-details {
+        padding: 36px 0;
+    }
+    #more-details .box {
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+    }
+    #more-details .box h3 {
+        font-size: 24px;
+        line-height: 28px;
+        margin-bottom: 16px;
+    }
+    #more-details .box {
+        width: 100%;
+    }
+    #more-details .button {
+        width: 100%;
+    }
+    .block2 .box {
+        margin-bottom: 30px;
+        height: auto;
+        padding: 24px 24px 30px 24px;
+    }
+    .block2 .box h4 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    #details {
+        padding: 40px 0 36px 0;
+    }
+    #details .warning{
+        margin-top: 0;
+        font-size: 30px;
+        line-height: 34px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #6C6C6C;
+    }
+    #promo-code {
+        padding: 40px 0;
+    }
+    #promo-code .info {
+        flex-direction: column;
+    }
+    #promo-code .section-title {
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 34px;
+        margin-bottom: 20px;
+    }
+    #promo-code .info .code {
+        font-size: 40px;
+        line-height: 40px;
+        width: 100%;
+        height: 72px;
+    }
+    #injection {
+        padding: 90px 0 414px 0;
+    }
+    #injection .section-title {
+        margin-bottom: 16px;
+    }
+    #injection .box p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    #injection .box img {
+        padding-top: 0;
+        margin-top: 30px;
+    }
+    #expert-opinion {
+        background: url("../images/experopinion-mobile.png")no-repeat center;
+        background-size: cover;
+    }
+    #expert-opinion .info {
+        padding: 36px 25px 32px 24px;
+        flex-direction: column;
+        align-items: flex-start;
+        top: -385px;
+    }
+    #expert-opinion .item {
+        margin-bottom: 30px;
+
+    }
+    #expert-opinion .item h4 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    #expert-opinion .item p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    #expert-opinion .play {
+        padding-top: 77px!important;
+    }
+    #expert-opinion  .box {
+        bottom: -82px;
+        width: 100%;
+        padding: 30px 20px 30px 20px;
+    }
+    #expert-opinion .row2 {
+        padding: 0 15px;
+    }
+    #expert-opinion .box h3 {
+        font-size: 29px
+    }
+    #opinion {
+        padding: 150px 0 60px 0;
+    }
+    #opinion .col-sm-12,
+    #opinion .col-12 {
+        padding: 0 15px!important;
+    }
+    .owl-theme .owl-dots {
+        text-align: left;
+    }
+    #section2 .block3 {
+        margin-top: 45px;
+    }
+    header .header .logo{
+        margin-right: 35px;
+    }
+    header .header .search {
+        display: block;
+    }
+}
+@media (max-width: 360px) {
+    #free-consultation .box-form .stock .time .clock .item {
+        width: 55px;
+        height: 45px;
+        font-size: 25.4545px;
+    }
+    #med-center .banner .item .procent {
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 40px;
+    }
+    #med-center .banner .item span {
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 19px;
+    }
+    #med-center .banner .item h5 {
+        font-size: 21px;
+        line-height: 23px;
+    }
+    #details .warning {
+        margin-top: 0;
+        font-size: 20px;
+        line-height: 25px;
+    }
+    #section2-mobile .wrapper {
+        padding: 15px 20px 15px 20px;
+    }
+    #section2-mobile .wrapper .box .title {
+        font-weight: bold;
+        font-size: 30.6893px;
+        line-height: 28px;
+    }
+    #section2-mobile .wrapper .box .title span {
+        font-size: 20.8447px;
+        line-height: 27px;
+    }
+    header .header .logo {
+        margin-right: 15px;
+    }
+}
