@@ -12,6 +12,15 @@
     #home {
         padding: 84px 0 130px 0
     }
+    header .header .right-box .number p {
+        font-size: 12px;
+    }
+    header .header .right-box .number a {
+        font-size: 17px;
+    }
+    header .header .right-box .location p {
+        font-size: 14px;
+    }
     #svf,
     #expert-opinion,
     #section4
@@ -487,6 +496,14 @@
     #med-center .right-box {
         margin-top: 20px;
     }
+    .white-popup-block .section-title {
+        font-size: 25px;
+        line-height: 23px;
+    }
+    #recording .section-title {
+        font-size: 25px;
+        line-height: 26px;
+    }
 }
 @media (max-width: 767px) {
     #section2 .wrapper .box .title span {
@@ -637,7 +654,6 @@
         width: 100%;
         height: auto;
     }
-
     #who-suits .info {
         padding: 18px 16px 16px 16px;
     }
@@ -651,10 +667,25 @@
     #who-suits .box.first img {
         margin-left: 8px;
     }
-
+    #who-suits .box.third img {
+        margin-left: 8px;
+    }
+    #who-suits .box.second {
+        margin-right: 8px;
+    }
     #who-suits .box.first:before {
         content: "";
         width: 4px;
+    }
+    #who-suits .box.second:after {
+        content: "";
+        width: 4px;
+        right: -8px;
+    }
+    #who-suits .box.third:after {
+        content: "";
+        width: 4px;
+        left: 0;
     }
 
     #who-suits .info.second {
@@ -1080,6 +1111,18 @@
     }
     header .header .search {
         display: block;
+    }
+    .white-popup-block .section-title {
+        font-size: 20px;
+    }
+    #recording .section-title {
+        font-size: 20px;
+    }
+    .white-popup-block {
+        padding: 30px 26px 0 30px;
+    }
+    .white-popup-block .button {
+        font-size: 16px;
     }
 }
 @media (max-width: 360px) {
