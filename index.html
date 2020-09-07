@@ -422,8 +422,8 @@
                                     <input type="text" id="#name" name="name" placeholder="Введите ваше имя">
                                 </div>
                                 <div class="col-lg-6 col-md-12">
-                                    <label for="#phone">Телефон</label>
-                                    <input type="text" id="#phone" name="phone" placeholder="+7 (___)___-__-__">
+                                    <label for="phone">Телефон</label>
+                                    <input type="tel" id="phone" name="phone" placeholder="+7 (___)___-__-__">
                                 </div>
                                 <div class="col-lg-6 col-md-12" style="margin-top: 20px">
                                     <label for="#city">Город</label>
@@ -1141,13 +1141,14 @@
     <button title="Close (Esc)" type="button" class="mfp-close">×</button>
     <div class="after"></div>
 </div>
+<script src="https://unpkg.com/imask"></script>
 <script>
     var element = document.getElementById('phone');
     var maskOptions = {
         mask: '+7(000)000-00-00',
         lazy: false
     }
-    var mask = new IMask(element, maskOptions);
+    var mask = new iMask(element, maskOptions);
 </script>
 <script
         src="https://code.jquery.com/jquery-3.5.1.js"
@@ -1155,7 +1156,7 @@
         crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js" integrity="sha512-IsNh5E3eYy3tr/JiX2Yx4vsCujtkhwl7SLqgnwLNgf04Hrt9BT9SXlLlZlWx+OK4ndzAoALhsMNcCmkggjZB1w==" crossorigin="anonymous"></script>
-<script src="js/jquery.inputmask.js"></script>
+
 <script src="js/script.js"></script>
 </body>
 </html>
